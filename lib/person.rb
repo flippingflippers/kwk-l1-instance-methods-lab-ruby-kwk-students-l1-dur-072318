@@ -15,3 +15,5 @@ class Person
   end
 end
 
+person1
+person2
