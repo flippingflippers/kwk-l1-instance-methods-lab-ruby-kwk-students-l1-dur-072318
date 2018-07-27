@@ -6,3 +6,16 @@ languages:
   - ruby
 resources: 0
 parent_template: git@github.com:learn-co-curriculum/instance-methods-lab-ruby.git
+
+class Dog 
+  def initialize(name)
+    @name = name
+  end
+  def bark
+    puts "Woof!"
+  end 
+  
+  def sit 
+    puts "The Dog is sitting".
+  end
+end
