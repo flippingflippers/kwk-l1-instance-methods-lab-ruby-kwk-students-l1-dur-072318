@@ -10,6 +10,9 @@ class Dog
   def sit 
     puts "The Dog is sitting"
   end
+  def get_name
+    return @name
+  end
 end
 
 dog1 = Dog.new("Foofy")
