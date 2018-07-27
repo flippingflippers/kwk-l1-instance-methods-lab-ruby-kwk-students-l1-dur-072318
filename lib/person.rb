@@ -10,5 +10,7 @@ class Person
   def walk
     puts "The Person is walking"
   end
+  def get_name
+    return @name
 end
 
