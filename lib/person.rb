@@ -18,3 +18,5 @@ end
 person1 = Person.new("Sirius")
 person2 = Person.new("Martha")
 
+puts person1
+puts person2
