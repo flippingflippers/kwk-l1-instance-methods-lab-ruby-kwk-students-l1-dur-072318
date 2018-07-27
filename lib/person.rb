@@ -12,5 +12,6 @@ class Person
   end
   def get_name
     return @name
+  end
 end
 
