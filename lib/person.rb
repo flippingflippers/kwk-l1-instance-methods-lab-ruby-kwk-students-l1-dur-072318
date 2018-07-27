@@ -15,5 +15,5 @@ class Person
   end
 end
 
-person1
-person2
+person1 = Person.new
+person2 = Person.new
