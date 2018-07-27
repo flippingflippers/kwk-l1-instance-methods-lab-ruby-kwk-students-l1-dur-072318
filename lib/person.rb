@@ -18,5 +18,5 @@ end
 person1 = Person.new("Sirius")
 person2 = Person.new("Martha")
 
-puts person1
-puts person2
+puts person1.get_name
+puts person2.get_name
